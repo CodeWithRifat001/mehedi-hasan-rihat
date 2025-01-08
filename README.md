@@ -50,16 +50,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/mehedi-hasan-rihat-4b8637277/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
 ###
 
 <img src="https://raw.githubusercontent.com/mehedi-hasan-rihat/mehedi-hasan-rihat/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mehedi-hasan-rihat-4b8637277/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
