@@ -72,9 +72,9 @@
 
 
 //fdsgdsf
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan-rihat&count_private=true" alt="Mehedi's GitHub Stats">
-    </a>
+ <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=mehedi-hasan-rihat" alt="GitHub Streak">
+</a>
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-hasan-rihat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
