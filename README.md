@@ -94,5 +94,5 @@
   <li><strong>Email:</strong> <a href="mailto:mehedi6381@gmail.com">mehedi6381@gmail.com</a></li>
   <li><strong>Phone:</strong> +8801991401185</li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mehedi-hasan-rihat/" target="_blank">Mehedi Hasan on LinkedIn</a></li>
-  <li><strong>Website:</strong> <a href="[https://yourwebsite.com](https://mehedi-hasan-rihat.netlify.app/)" target="_blank">Portfolio</a></li>
+  <li><strong>Website:</strong> <a href="https://mehedi-hasan-rihat.netlify.app/" target="_blank">Portfolio</a></li>
 </ul>
