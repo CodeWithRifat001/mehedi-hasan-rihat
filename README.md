@@ -83,3 +83,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-hasan-rihat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi-hasan-rihat&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
+
+###
+
+<h2 align="left">Contact Information</h2>
+
+<p align="left">Feel free to reach out to me through the following methods:</p>
+
+<ul align="left">
+  <li><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+  <li><strong>Phone:</strong> +880123456789</li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mehedi-hasan-rihat-4b8637277/" target="_blank">Mehedi Hasan on LinkedIn</a></li>
+  <li><strong>Twitter:</strong> <a href="https://twitter.com/yourhandle" target="_blank">@YourTwitter</a></li>
+  <li><strong>Website:</strong> <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a></li>
+</ul>
