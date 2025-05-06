@@ -1,99 +1,58 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/M5sY2q7/github-header-image-1.png" />
-</div>
+<h1 align="center">Hey 👋, I'm Rihat Seikh</h1>
+<h3 align="center">💻 Computer Science & Technology Student | Aspiring Full-Stack Developer</h3>
 
-###
-
-<h1 align="left">Hello, I'm Mehedi Hasan 👋</h1>
-
-###
-
-<p align="left">Frontend Developer | Aspiring Full-Stack Developer</p>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">
-  I am a Frontend Developer based in Bangladesh with a strong passion for creating dynamic, user-friendly web applications. With a focus on mastering modern technologies like React.js, HTML5, CSS3, and JavaScript, I aim to build not only functional but also visually appealing websites that provide seamless user experiences.
-  <br><br>
-  While my primary expertise lies in frontend development, I am actively expanding my knowledge in backend technologies such as Node.js, Express, and MongoDB, to become a proficient full-stack developer. I am continuously seeking opportunities to learn and collaborate on innovative projects.
-</p>
-
-###
-
-<p align="left">
-  ✨ Developing solutions since 2023<br>
-  📚 Currently learning **TypeScript**<br>
-  🎯 Goals: <br>
-  - 🚀 Master **React.js** by deepening my knowledge of hooks, state management, and creating dynamic UIs.<br>
-  - 🎨 Achieve mastery in **HTML5** and **CSS3**, with a focus on **responsive design** and **UI/UX** principles.<br>
-  - 🌱 Expand my backend skills by exploring **Node.js** and **Express** to become a proficient full-stack developer.<br>
-  - 🧑‍💻 Build a comprehensive **personal portfolio** showcasing my frontend projects and development journey.<br>
-  - 🤝 Contribute to **open-source projects** to enhance my skills and support the developer community.
-</p>
-
-###
-
-<h2 align="left">Technologies & Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-</div>
-
-###
-
-<h2 align="left">Connect with Me</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mehedi-hasan-rihat-4b8637277/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+<p align="center">
+  <a href="https://github.com/CodeWithRifat001">
+    <img src="https://img.shields.io/github/followers/CodeWithRifat001?label=Follow&style=social" alt="GitHub Followers">
   </a>
-</div>
+  <a href="https://www.facebook.com/your_facebook_username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-###
+---
 
-<h2 align="center">GitHub Stats</h2>
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan-rihat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-hasan-rihat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi-hasan-rihat&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
+- 🎓 I’m currently pursuing a **Diploma in Computer Science & Technology** at *Patuakhali Polytechnic Institute*.
+- 🧠 I love learning and experimenting with **Java, Python, HTML, and CSS**.
+- 💡 I’m focused on **web development** and enhancing my **problem-solving** skills.
+- 🌱 Currently exploring frameworks and real-world applications.
 
-###
+---
 
-<h2 align="left">Contact Information</h2>
+## 🛠️ Languages & Tools
 
-<p align="left">Feel free to reach out to me through the following methods:</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<ul align="left">
-  <li><strong>Email:</strong> <a href="mailto:mehedi6381@gmail.com">mehedi6381@gmail.com</a></li>
-  <li><strong>Phone: </strong> <a href="https://wa.me/+8801991401185" target="_blank">+8801991401185 (WhatsApp)</a></li>
+---
 
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mehedi-hasan-rihat/" target="_blank">Mehedi Hasan on LinkedIn</a></li>
-  <li><strong>Website:</strong> <a href="https://mehedi-hasan-rihat.netlify.app/" target="_blank">Portfolio</a></li>
-</ul>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRifat001&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithRifat001&theme=tokyonight" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRifat001&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📘 [Facebook](https://www.facebook.com/your_facebook_username)
+- 📸 [Instagram](https://www.instagram.com/your_instagram_username)
+- 💼 GitHub: [@CodeWithRifat001](https://github.com/CodeWithRifat001)
+
+---
+
+<p align="center">Thanks for visiting my profile! 😊</p>
